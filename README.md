@@ -34,7 +34,7 @@ Si votre docker est structuré de cette manière
     |- App_docker1
     |- App_docker2
     |- App_docker3
-Vous n'aurez plus qu'a lancer la commande de cette manière pour chaque **up_doc <nom_appli>** pour la mettre à jour.
+Vous n'aurez plus qu'a lancer la commande de cette manière **up_doc <nom_appli>** pour chaque application à mettre à jour.
 
 Exemple :
 
