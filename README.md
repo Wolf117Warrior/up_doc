@@ -39,3 +39,7 @@ Vous n'aurez plus qu'a lancer la commande de cette manière **up_doc <nom_appli>
 Exemple :
 
     up_doc App_docker1
+    
+ Check liste
+ - Création de logs 
+ - Envoi de notifications par mail
